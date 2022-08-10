@@ -1,3 +1,6 @@
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=kakachake;a+Front+end+Developer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @kakachake
 - 📫 Email:  theeasylife@foxmail.com
 - 💻 Blog: https://kakachake.github.io/
@@ -23,13 +26,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,ae,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,vue,react,html,css,js,ts,ae,ps,pr" />
   </a>
 </p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![](./profile-3d-contrib/profile-green.svg)
  
  </details>
