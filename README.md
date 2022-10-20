@@ -18,7 +18,7 @@
 | 开源项目 | 简介 | 类型 |
 | --- | --- | --- |
 |<a href="https://github.com/kakachake/cloud_music_monorepo">React Netease Music</a>| 一个基于 React、TypeScript 的高仿网易云播放器 | 练手项目 |
-|<a href="https://github.com/kakachake/resume-electron">简历制作平台</a>| 一个基于 React、TypeScript、Electron 的简历制作平台 | 练手项目 |
+|<a href="https://github.com/kakachake/resume-electron">resume-electron</a>| 一个基于 React、TypeScript、Electron 的简历制作平台 | 练手项目 |
 |<a href="https://github.com/kakachake/mini_zvm">mini_zvm</a>| 简化版的vue实现 | 源码实现 |
 |<a href="https://github.com/kakachake/mini-react-router">mini-react-router</a>| 从 0 到 1 实现的 react router 路由功能 | 源码实现 |
 
