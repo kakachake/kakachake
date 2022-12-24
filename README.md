@@ -24,7 +24,7 @@
 |<a href="https://github.com/kakachake/BuildMyReact">Build My React</a>| 简易的React实现 | 源码实现 |
 |<a href="https://github.com/kakachake/create-want">Create want app</a>| 前端项目脚手架工具 | 源码实现 |
 |<a href="https://github.com/kakachake/create-want">shttp</a>| 基于nodejs的http server简易实现 | 源码实现 |
-|<a href="https://github.com/kakachake/easy-bezier-animation">shttp</a>| 快速贝塞尔动画实现 | 开源项目 |
+|<a href="https://github.com/kakachake/easy-bezier-animation">easy-bezier-animation</a>| 快速贝塞尔动画实现 | 开源项目 |
 <br>
 <h2>Skills</h2>
 
